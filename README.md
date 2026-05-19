@@ -1,3 +1,5 @@
+Alec Lichtenberger
+
 ## 1.
 Option 1, we want to do this because it will automatically test without relying on the developer testing it themselves and will catch failures before they get merged into the build.
 
